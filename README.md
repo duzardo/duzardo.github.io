@@ -5,14 +5,14 @@ Sou estudante de Ciência da Computação da Computação na PUCPR(Pontifícia U
 Aqui você vai encontrar alguns dos projetos que realizei durante o decorrer do meu curso.
 ---
 ### Experiência Criativa
-   **Generinight** é um jogo de plataforma onde o cavaleiro deve resgatar seu irmão sequestrado por um culto maligno, com planos maléficos.
+   **Generiknight** é um jogo de plataforma onde o cavaleiro deve resgatar seu irmão sequestrado por um culto maligno, com planos maléficos.
    O projeto foi feito a partir do Construct 2.
    
-  <img src="https://i.imgur.com/Wt7CIYN.png"> <img src="https://i.imgur.com/29bmnzo.png">
+  <img src="./images/generiknight.png">
    
    **PY.EDU** é um projeto feito no Processing, com a linguagem Java, com o intuito de criar um quiz sobre a linguagem de programação Python.
 
-   <img src="https://i.imgur.com/Np1e5BX.png">
+   <img src="./images/pyedu.png">
 
 
 
