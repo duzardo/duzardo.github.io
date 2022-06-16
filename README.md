@@ -9,6 +9,10 @@ Aqui você vai encontrar alguns dos projetos que realizei durante o decorrer do 
    O projeto foi feito a partir do Construct 2.
    
   <img src="https://i.imgur.com/Wt7CIYN.png"> <img src="https://i.imgur.com/29bmnzo.png">
+   
+   **PY.EDU** é um projeto feito no Processing, com a linguagem Java, com o intuito de criar um quiz sobre a linguagem de programação Python.
 
-   ---
+   <img src="https://i.imgur.com/Np1e5BX.png">
+
+
 
