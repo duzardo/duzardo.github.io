@@ -17,9 +17,9 @@ Aqui você vai encontrar alguns dos projetos que realizei durante o decorrer do 
 
 ---
  
-O **Site de cinema** é um projeto no qual você pode adicionar filmes que conhece ou consultar informações sobre filmes de uma lista predefinida, além de poder aprender sobre a história do cinema.
+<p>O **Site de cinema** é um projeto no qual você pode adicionar filmes que conhece ou consultar informações sobre filmes de uma lista predefinida, além de poder aprender sobre a história do cinema.</p>
 ---
 ### Raciocínio Algorítimo
- 
+
 
 
