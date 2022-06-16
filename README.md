@@ -34,13 +34,13 @@ O **Jogo da Memória** consiste em apresentar pares de desenhos distribuídos em
 
 ### Fundamentos de Sistemas Ciberfísicos
 O **Projeto Smart City** se reunia em criar a proposta de uma solução aplicada a Smart City, utilizando o Raspberry Pi e sensores/atuadores.
-<p> <img src="./images/rasppi.png> </p>
+<p> <img src="./images/rasppi.png"> </p>
 
 ---
 
 ### Resolução de Problemas com Lógica Matemática
 O **Jogo do Detetive** consiste em um jogo onde deve se usar regras de inferências, para deduzir a conclusão criada pelos alunos.
-<p> <img src="./images/detetive.png> </p>
+<p> <img src="./images/detetive.png"> </p>
 
 
 
