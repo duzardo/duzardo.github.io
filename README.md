@@ -20,7 +20,7 @@ O **Site de cinema** é um projeto no qual você pode adicionar filmes que conhe
 
 <hr/>
 
-### Raciocínio Algorítimo
+### Raciocínio Algorítmico
 **O Jokenpô** é um de pedra, papel e tesoura, que conta com o modo JOGADORxJOGADOR e JOGADORxCOMPUTADOR.
 
 O **Jogo da Memória** consiste em apresentar pares de desenhos distribuídos em quadrantes e o jogador deve adivinhar as posições que apresentam desenhos iguais
