@@ -38,6 +38,7 @@ O **Jogo do Detetive** consiste em um jogo onde deve se usar regras de inferênc
 <p> <img src="./images/detetive.png"> </p>
 
 </hr>
+a
 
 
 
