@@ -34,7 +34,7 @@ O **Jogo da Memória** consiste em apresentar pares de desenhos distribuídos em
 
 ### Fundamentos de Sistemas Ciberfísicos
 O **Projeto Smart City** se reunia em criar a proposta de uma solução aplicada a Smart City, utilizando o Raspberry Pi e sensores/atuadores.
-<p> <img src="./images/rasppi.png"> </p>
+<p> <img src="./images/rasppi.jng"> </p>
 
 ---
 
