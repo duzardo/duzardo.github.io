@@ -1,4 +1,5 @@
 # Sobre Mim
+<p> <img src="./images/eduardo.jpg"></p>
 Sou estudante de Ciência da Computação na PUCPR(Pontifícia Universidade Católica do Paraná), finalizei o curso técnico na TECPUC, e sempre procuro aprender mais sobre tecnologia em geral.
 
 <hr/>
